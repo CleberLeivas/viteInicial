@@ -1,7 +1,6 @@
 import Graficos from "./components/Graficos"
 
 export const Home = () => {
-
     return(
         <>
             <Graficos text="Grafico de linha" color="green" whatChart="line"/>
