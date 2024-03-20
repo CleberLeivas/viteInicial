@@ -13,3 +13,13 @@ export const Home = () => {
         </>       
     )
 }
+
+export const Carrousel = () => {
+    return(
+        <>
+        <br />
+        <Carrousel/>
+            <Carrousel text="Carrousel 1" color="green"/>
+        </>       
+    )
+}

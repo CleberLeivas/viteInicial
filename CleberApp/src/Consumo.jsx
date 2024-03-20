@@ -15,6 +15,7 @@ export const Consumo = () => {
                     desc={item.desc}
                     value={item.value}
                     image={item.image}
+                    key={item.id}
                     />
                     )
                 }
