@@ -146,7 +146,7 @@ return(
       </AreaChart>
     }
 
-    {props.whatChart === "pie" &&
+    {props.whatChart === "pizza" &&
       <PieChart width={400} height={400}>
         <Pie
           data={dataPie}
@@ -165,7 +165,7 @@ return(
       </PieChart>
     }
 
-    {props.whatChart === "bar" && 
+    {props.whatChart === "barra" && 
       <BarChart
         width={500}
         height={300}
