@@ -4,41 +4,41 @@
         "name": "Perfume",
         "desc": "Miguel Rousseuf",
         "value": 100.00,
-        "image": ""
+        "image": "../src/images/1.jpeg"
     },
     {
         "id": 2,
         "name": "Perfume",
-        "desc": "Miguel Rousseuf",
-        "value": 100.00,
-        "image": ""
+        "desc": "Andrade Costa",
+        "value": 99.00,
+        "image": "../src/images/2.jpg"
     },
     {
         "id": 2,
         "name": "Perfume",
-        "desc": "Miguel Rousseuf",
-        "value": 100.00,
-        "image": ""
+        "desc": "Malaga Volterin",
+        "value": 89.00,
+        "image": "../src/images/3.jpg"
     },
     {
         "id": 3,
         "name": "Perfume",
-        "desc": "Miguel Rousseuf",
-        "value": 100.00,
-        "image": ""
+        "desc": "Jorge Sorvete",
+        "value": 60.00,
+        "image": "../src/images/4.jpg"
     },
     {
         "id": 4,
         "name": "Perfume",
-        "desc": "Miguel Rousseuf",
-        "value": 100.00,
-        "image": ""
+        "desc": "Mateus Barbosa",
+        "value": 71.99,
+        "image": "../src/images/5.jpg"
     },
     {
         "id": 5,
         "name": "Perfume",
         "desc": "Miguel Rousseuf",
         "value": 100.00,
-        "image": ""
+        "image": "../src/images/6.jpg"
     }
 ]

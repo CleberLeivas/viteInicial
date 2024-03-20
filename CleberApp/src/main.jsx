@@ -15,6 +15,10 @@ const router = createBrowserRouter([
     path: "/Consumo",
     element: <Consumo />,
   },
+  {
+    path: "/Carrossel",
+    element: <Carrossel />,
+  },
 ]);
 
 ReactDOM.createRoot(document.getElementById('root')).render(
